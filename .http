@@ -1,0 +1,7 @@
+POST  http://localhost:4222/ HTTP/1.1
+content-type: application/json
+
+{
+    "nom": 2,
+    "prenom": "test 3"
+}
