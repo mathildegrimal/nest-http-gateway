@@ -397,3 +397,4 @@ Temporary Items
 .env
 dist
 **/config.ts
+docker-compose.yml
